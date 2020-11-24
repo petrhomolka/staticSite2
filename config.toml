@@ -1,4 +1,22 @@
 baseURL = "http://petrhomolka.github.io/staticSite2/public/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "BMX components listing"
 theme = "dream"
+
+[params]
+
+    # options
+    showSummaryCoverInPost = true
+
+    author = "PetrH"
+    description = "Petrs blog"
+    categoriesLimitInHeader = 6
+
+    email = "g1enyy0ung@gmail.com"
+    twitter = "g1eny0ung"
+    facebook = "g1eny0ung"
+    instagram = "g1eny0ung"
+
+    siteStartYear = 2016
+
+    headerTitle = "PetrH"
