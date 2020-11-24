@@ -2,9 +2,8 @@
 title: My Second Post
 date: 2020-11-24T13:38:18+01:00
 lastmod: 2020-11-24T13:38:18+01:00
-author: Author Name
+author: Petr
 # authorlink: https://author.site
-cover: /img/cover.jpg
 categories:
   - category1
 tags:
