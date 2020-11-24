@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on BMX components listing</title>
     <link>http://petrhomolka.github.io/staticSite2/public/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <description>Recent content in Categories on BMX components listing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://petrhomolka.github.io/staticSite2/public/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2020 13:38:18 +0100</lastBuildDate><atom:link href="http://petrhomolka.github.io/staticSite2/public/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>category1</title>
+      <link>http://petrhomolka.github.io/staticSite2/public/categories/category1/</link>
+      <pubDate>Tue, 24 Nov 2020 13:38:18 +0100</pubDate>
+      
+      <guid>http://petrhomolka.github.io/staticSite2/public/categories/category1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

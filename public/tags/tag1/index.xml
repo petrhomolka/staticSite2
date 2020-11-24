@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BMX components listing</title>
-    <link>http://petrhomolka.github.io/staticSite2/public/</link>
-    <description>Recent content on BMX components listing</description>
+    <title>tag1 on BMX components listing</title>
+    <link>http://petrhomolka.github.io/staticSite2/public/tags/tag1/</link>
+    <description>Recent content in tag1 on BMX components listing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2020 13:38:18 +0100</lastBuildDate><atom:link href="http://petrhomolka.github.io/staticSite2/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2020 13:38:18 +0100</lastBuildDate><atom:link href="http://petrhomolka.github.io/staticSite2/public/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Post</title>
       <link>http://petrhomolka.github.io/staticSite2/public/posts/my-second-post/</link>
