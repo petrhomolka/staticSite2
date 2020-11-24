@@ -1,4 +1,4 @@
-baseURL = "https://petrhomolka.github.io/staticSite2/public/"
+baseURL = "http://petrhomolka.github.io/staticSite2/public/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "dream"
